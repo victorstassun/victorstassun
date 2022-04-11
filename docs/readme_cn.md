@@ -1,6 +1,6 @@
 <div >
-  <h1 align="center" >Olá Tudo bem? Me chamo <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Victor Stassun</i></a> 😃️</h1>
-  <p align="center">Estudo linguagens de programação e outras tecnologias desde o final de 2019, e já desenvolvi e participei de alguns projetos, grande maioria deles poder ser encontrados aqui nesse perfil!!!
+  <h1 align="center" >Nǐ hǎo, yīqiè dōu hǎo ma? Wǒ de míngzì shì <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Victor Stassun</i></a> 😃️</h1>
+  <p align="center">Wǒ cóng 2019 niándǐ kāishǐ xuéxí biānchéng yǔyán hé qítā jìshù, bìngqiě yǐjīng kāi fǎ bìng cānyùle yīxiē xiàngmù, qízhōng dà bùfèn dōu kěyǐ zài cǐ jiǎnjiè zhōng zhǎodào!!!
   </a><br>
 </div>
 
@@ -56,10 +56,9 @@
     <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
     ·
     <a href="/docs/readme_it.md">Italiano</a>
-
   </p>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <p>使用 :heart: 和 JavaScript 制作。</p>
+  <p>学分: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>

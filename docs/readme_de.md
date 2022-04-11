@@ -1,6 +1,6 @@
 <div >
-  <h1 align="center" >Olá Tudo bem? Me chamo <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Victor Stassun</i></a> 😃️</h1>
-  <p align="center">Estudo linguagens de programação e outras tecnologias desde o final de 2019, e já desenvolvi e participei de alguns projetos, grande maioria deles poder ser encontrados aqui nesse perfil!!!
+  <h1 align="center" >Hallo, wie ist alles? Mein Name ist <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Victor Stassun</i></a> 😃️</h1>
+  <p align="center">Ich studiere seit Ende 2019 Programmiersprachen und andere Technologien und habe bereits einige Projekte entwickelt und daran teilgenommen, die meisten davon finden Sie hier in diesem Profil !!!
   </a><br>
 </div>
 
@@ -56,10 +56,9 @@
     <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
     ·
     <a href="/docs/readme_it.md">Italiano</a>
-
   </p>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <p>Erstellt mit :heart: und JavaScript.</p>
+  <p>Kredite: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
