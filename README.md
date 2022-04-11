@@ -25,8 +25,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="30" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png">
-  <img align="center" alt="nodejs" height="30" width="40" style="padding-right: -10;" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="CSS" height="30" width="30" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" style="margin-left: 15px;">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://vetores.org/d/java.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
