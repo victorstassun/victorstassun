@@ -5,15 +5,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-F954AD?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/victorstassun/)](https://www.instagram.com/victorstassun/)
-
-</div>
-
-<div align="center">
-
-</div>
-
