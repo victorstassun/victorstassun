@@ -1,5 +1,5 @@
 <div >
-  <h1 align="center" >Hey there, I´m <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Victor Stassun</i></a> 😃️</h1>
+  <h1 align="center" >Hey there, I´m <a><i>Victor Stassun</i></a> 😃️</h1>
   <p align="center">I have studied programming languages and other technologies since the end of 2019, and I have already developed and participated in some projects, most of them can be found here in this profile!!!
   </a><br>
 </div>
