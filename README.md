@@ -40,6 +40,3 @@
 
   </p>
 
-<div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a></p>
-</div>
